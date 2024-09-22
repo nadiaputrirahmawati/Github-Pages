@@ -4,7 +4,7 @@
 ##### Nama : Nadia Putri Rahmawati.
 ##### Universitas Muhammadiyah Sukabumi.
 
-## Screenshots Hasil 
+## Screenshots Hasil Github
 
 ![App Screenshot](https://i.imgur.com/DJ1copA.png)
 ![App Screenshot](https://i.imgur.com/9EbsrWO.png)
