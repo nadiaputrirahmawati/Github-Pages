@@ -607,14 +607,6 @@ footer a:hover i {
         width: 70%;
         flex-direction: column;
     }
-
-    /* .header {
-        width: 90%;
-    }
-
-    .terminal {
-        width: 84%;
-    } */
 }
 
 
@@ -650,8 +642,4 @@ footer a:hover i {
         width: 70%;
         flex-direction: column;
     }
-
-    /* .container-terminal {
-      opacity: 0;
-    } */
 }
